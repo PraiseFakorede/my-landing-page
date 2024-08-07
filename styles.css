@@ -1,11 +1,10 @@
-/* Reset some default styles */
+
 body, h1, h2, p {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Basic styling */
 body {
     font-family: Arial, sans-serif;
     color: #333;
@@ -63,7 +62,7 @@ p {
     border-radius: 50%; 
 }
 
-footer {
+main {
     background: #333;
     color: #fff;
     text-align: center;
